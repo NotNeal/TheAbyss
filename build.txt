@@ -1,0 +1,9 @@
+author = The Abyss Team
+version = 1.0.0
+displayName = The Abyss
+homepage = placeholder.org
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
